@@ -8,5 +8,5 @@ Picture of me:\
 <a href="url"><img src="https://github.com/phama2/oss-repo-template/blob/master/screenshots/picme.jpg" height="75" ></a>
 
 ## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+[Lab 1](labs/lab-01/report.md) \
 [Lab 2](labs/lab-02/report.md)
