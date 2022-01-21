@@ -12,4 +12,4 @@ Git Diff: \
 ![image](https://user-images.githubusercontent.com/70230763/150577340-356e0e21-b167-4cc4-a958-ef81d713c03e.png) \
 Git Tag: \
 ![image](https://user-images.githubusercontent.com/70230763/150577657-cdc72246-0586-45a0-b049-01694584b89e.png) \
-Table Repo: https://github.com/lhain08/OSSProjectIdeas \
+Table Repo: https://github.com/lhain08/OSSProjectIdeas
