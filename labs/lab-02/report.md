@@ -1,2 +1,2 @@
-Link to created repo: https://github.com/phama2/OSSLab2 \
-
+Link to created repo: https://github.com/phama2/OSSLab2
+ 
