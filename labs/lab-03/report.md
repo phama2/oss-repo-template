@@ -8,7 +8,7 @@ Contributors: 1 \
 Lines of Code: 12281 \
 First Commit: 1/21/19 e5a518479152d80b740139f449184ae0a3834c65 \
 Latest Commit: 5/15/19 088d96c0b5047634e090c1ed536c76d165690607 \
-Branches:
+Branches 1:
 * master \
 ![image](https://user-images.githubusercontent.com/70230763/151603520-377ccf86-70e9-475b-b18b-ad0091283445.png)
 ### Autologin (https://github.com/SeanWaclawik/courseproject)
@@ -25,7 +25,7 @@ Contributors: 1 \
 Lines of Code: 276 \
 First Commit: 2/7/20 fea06f9842083648a6b047e1fa1001da05d5d228 \
 Latest Commit: 3/17/21 0aa25486b6f532102c460593a8ddf1e0104c0bf9 \
-Branches:
+Branches 1:
 * master \
 ![image](https://user-images.githubusercontent.com/70230763/151603261-44a36a71-4428-4233-bd77-7134a35102e6.png)
 ### B.O.T. (https://github.com/dylanmoody/BOT)
@@ -33,7 +33,7 @@ Contributors: 3 \
 Lines of Code: 187608 \
 First Commit: 1/24/20 596a96e136c6552e58f04e5c1dd625e304b89c93 \
 Latest Commit: 5/2/20 1f35a7a7f6ba5221792e619ca85fc8f25e0b8381 \
-Branches:
+Branches 6:
 * master
 * dependabot/npm_and_yarn/ini-1.3.8
 * dependabot/npm_and_yarn/lodash-4.17.21
@@ -46,7 +46,7 @@ Contributors: 10 \
 Lines of Code: 3861 total \
 First Commit: 9/24/18 ca0926dcb6988f8e2f464510a9e6d547a9cb2848 \
 Latest Commit: 2/18/20 f221dbed816f299d6218b20e564251ad7b8eeee2 \
-Branches: 
+Branches 48 (notable branches listed): 
 * master
 * update-dynamorio
 * debug
