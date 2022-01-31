@@ -69,10 +69,10 @@ Branches 48 (notable branches listed):
 * fix-timeout \
 ![image](https://user-images.githubusercontent.com/70230763/151603556-b93e19a1-9d64-49c1-a628-00ff8f047902.png)
 
-Gource wasn't working for me :(
+Gource wasn't working for me :( \
 ![image](https://user-images.githubusercontent.com/70230763/151739060-99451382-c199-42d3-8ba1-31cb6f28a621.png)
 
-Gource runs from teammates:
-https://www.youtube.com/watch?v=NH78f21MhcY
+Gource runs from teammates: \
+https://www.youtube.com/watch?v=NH78f21MhcY \
 https://www.youtube.com/watch?v=AsqMs-VzfyQ
 
