@@ -1,5 +1,3 @@
-### (1.) Link to license in lab folder
-[License](https://github.com/phama2/oss-repo-template/blob/master/labs/lab-04/LICENSE)
 ### (3.) Why is it important to choose a license?
 Choosing a license is crucial because it determines if a piece of code is categorized as free or non-free, with both sides having its own caveats. The chosen license would specify restrictions and limitations of the software along with other guidelines, such as rules about packaging and distribution of the software. Software licenses are significant in the fact that they define exactly how a user can access, use, and modify existing software for their own needs and purposes.
 ### (4.) Why is it important that you shouldn't use a project that doesn't have an explicit license?
@@ -7,7 +5,7 @@ Most software licenses are based on copyright, with limits on the kinds of requi
 ### (5.) Failure to follow the Open Source Model
 I pretty much agree with this claim. One can make their code open-source for everyone to view and use, but open communication is also an integral part of the model. Early effective communication can provide insight that will inevitably lead to improvement of the software over time. Not only will this be transparent to the larger community, but it will encourage other members to contribute, whether it be code contributions or even potential features. Having software be open-source and establishing means of larger community communication during the beginning period of a project's development cycle will most likely lead to a higher probability and success and community acceptance that not.
 ### (6.) Licensing Justification
-
+The [GPLv2 License](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2) is used by Linux. [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), while curious about operating systems using [MINIX](https://en.wikipedia.org/wiki/Minix), a minimal UNIX-like operating system that was used at the time to learn operating system principles, was frustrated by its licensing which was only limited to educational uses. Thus, he began to work on his own operating system kernel, which would later become the Linux kernel. He replaced the existing MINIX components with GNU applications, since it was more advantageous to use the freely available code from the [GNU Project](https://en.wikipedia.org/wiki/GNU_Project), and initiated the switch from his orginal license to the [GNU GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), which could be reused in other programs as long as it is released under the same or a compatibile license. His [goal](https://en.wikipedia.org/wiki/History_of_Linux#The_creation_of_Linux) was to create a free operating system with feedback from others. To facilitate this goal, he published [v0.99 in 1992](https://en.wikipedia.org/wiki/History_of_Linux#Linux_under_the_GNU_GPL), using the GNU GPL, with developers working to make a fully function and free operating system.
 ### (7.) Group Activity
 [Link to Group Repo](https://github.com/brandon-red/SomeFramework)
 ### (8.) RCOS Projects Table
@@ -18,3 +16,5 @@ https://github.com/SeanWaclawik/courseproject | Yes | [MIT License](https://en.w
 https://github.com/Tiecoon/B7 | Yes | [BSD-2-Clause License](https://en.wikipedia.org/wiki/BSD_licenses#2-clause_license_(%22Simplified_BSD_License%22_or_%22FreeBSD_License%22))
 https://github.com/scottnotfound/clara | Yes | [Apache-2.0 License](https://en.wikipedia.org/wiki/Apache_License#Apache_License_2.0)
 https://github.com/jennifer4569/cocode | Yes | [GPL-3.0 License](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_3)
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
