@@ -76,7 +76,8 @@ if __name__ == '__main__':
     print("Graph has %d nodes with %d edges"
           % (nx.number_of_nodes(G), nx.number_of_edges(G)))
     print("%d connected components" % nx.number_connected_components(G))
-        
+    
+    # Used a list
     length5 = [('chaos', 'order'), ('plots', 'graph'), ('moron', 'smart'), \
                      ('flies', 'swims'), ('mango', 'peach'), ('pound', 'marks')]
     
