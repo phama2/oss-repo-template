@@ -2,11 +2,11 @@
 ### Checkpoint 1
 ![image](https://user-images.githubusercontent.com/70230763/159038007-0eb68132-ee26-4ffe-bfd2-385a146295e6.png)
 ### Checkpoint 2
-##### Find the Nightly and Experimental sections and look at some of the submissions. How can you see what tests were run for a particular submission?
+#### Find the Nightly and Experimental sections and look at some of the submissions. How can you see what tests were run for a particular submission?
 Click on the build and then scroll down to the bottom to view the tests summary section. Click the "View Tests Summary". On this new page, it should show all of the tests run along with which passed and failed. Also, you can click on the name of the test to show additional details.
-##### Find a submission with errors. Can you see what the error condition was? How does this help you debug the failure?
+#### Find a submission with errors. Can you see what the error condition was? How does this help you debug the failure?
 I couldn't find any submissions with errors, but I assume its the same process as the question above. However, instead of the tests section, you would look at the build section and click the "View Errors Summary". From this page, you can probably see what the error condition is. This aids in debugging failure since it directly points out the point of failure so you can go back and fix it.
-##### Find a system that is close to your specific configuration in the Nightly, Nightly Expected or one of the Masters sections. How clean is the dashboard? Are there any errors that you need to be concerned with?
+#### Find a system that is close to your specific configuration in the Nightly, Nightly Expected or one of the Masters sections. How clean is the dashboard? Are there any errors that you need to be concerned with?
 The closest to my specification is "cmake-windows_vs2022_x64" in the master section. The dashboard is clean with no errors and passing all tests. No errors at all that I would need to be concerned with.
 
 ### Checkpoint 3
