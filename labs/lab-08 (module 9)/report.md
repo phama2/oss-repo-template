@@ -24,4 +24,5 @@ Cowsay: \
 
 ### Example 4
 Dockerfile and compose file taken directly from example04: \
+![image](https://user-images.githubusercontent.com/70230763/160172807-1823892a-3f05-499b-8e41-14462d355e51.png)
 ![image](https://user-images.githubusercontent.com/70230763/160171769-04ef1aaf-6cee-4f45-bcff-91fb425d91c7.png)
