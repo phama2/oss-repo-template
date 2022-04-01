@@ -22,3 +22,12 @@
 ![image](https://user-images.githubusercontent.com/70230763/161307391-d3ba7cac-66a2-4844-b883-3778a6d596d0.png)
 
 ### Checkpoint 3
+![image](https://user-images.githubusercontent.com/70230763/161307663-378cdeee-e063-4bbe-8657-a9ac8075e58b.png)
+![image](https://user-images.githubusercontent.com/70230763/161307714-bfafe292-c270-4ef0-b201-29eb035e1539.png)
+![image](https://user-images.githubusercontent.com/70230763/161307987-3055ebd1-816e-4cdd-8be7-fc29b2fde7eb.png)
+![image](https://user-images.githubusercontent.com/70230763/161308139-fca24741-c648-4929-89eb-0c21a0f92dbe.png)
+![image](https://user-images.githubusercontent.com/70230763/161308287-c47f3682-762f-44b5-961a-788fcb16d80b.png)
+![image](https://user-images.githubusercontent.com/70230763/161308764-0b7fad9c-34b6-4341-916a-cc256a1a1a53.png)
+![image](https://user-images.githubusercontent.com/70230763/161309285-f120fe6c-38ee-4cab-82ca-e47303cab42f.png)
+![image](https://user-images.githubusercontent.com/70230763/161309643-97ed9a03-9e82-4c35-a86f-6073544318de.png)
+![image](https://user-images.githubusercontent.com/70230763/161309813-8a9664fd-85b1-405d-ba6c-91ea1c1e6465.png)
