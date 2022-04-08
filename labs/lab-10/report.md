@@ -26,4 +26,6 @@ Processed: \
 Processed: \
 ![image](https://github.com/phama2/oss-repo-template/blob/master/labs/lab-10/Files/cloth3_processed.png) \
 ![image](https://github.com/phama2/oss-repo-template/blob/master/labs/lab-10/Files/Figure_3.png)
-![image](https://github.com/phama2/oss-repo-template/blob/master/labs/lab-10/Files/cloth3out.PNG)
+![image](https://github.com/phama2/oss-repo-template/blob/master/labs/lab-10/Files/cloth3out.PNG) \
+\
+The classification system got 1 out of 3 correct. I have no idea what happened for image 2 since there was barely anything in the sneaker column. Maybe it has something to do with the color of the sneaker being black after inverting the colors or the orientation of the image, but honestly I have no idea. Image 3 was almost correct, but again, maybe it had something to do with the orientation or the color, but was way closer to being correct than image 2.
