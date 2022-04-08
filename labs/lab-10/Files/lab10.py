@@ -11,6 +11,7 @@ import tensorflow as tf
 # Helper libraries
 import numpy as np
 import matplotlib.pyplot as plt
+from PIL import Image, ImageOps
 
 print(tf.__version__)
 
@@ -107,3 +108,17 @@ for i in range(num_images):
   plot_value_array(i+9000, predictions[i+9000], test_labels)
 plt.tight_layout()
 plt.show()
+
+for pic in ["cloth1_processed.png", "cloth2_processed.png", "cloth3_processed.png"]:
+    img = Image.open(pic)
+    img = np.array(img)
+    img = img / 255.0
+    
+    img = (np.expand_dims(img,0))
+    predictions_single = probability_model.predict(img)
+    predicted_class = np.argmax(predictions_single[0])
+    print(f"{predictions_single} {predicted_class} {class_names[predicted_class]}")
+
+    plot_value_array(1, predictions_single[0], test_labels)
+    _ = plt.xticks(range(10), class_names, rotation=45)
+    plt.show()
